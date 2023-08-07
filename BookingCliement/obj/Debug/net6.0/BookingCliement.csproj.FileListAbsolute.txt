@@ -1,0 +1,17 @@
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.csproj.AssemblyReference.cache
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.AssemblyInfoInputs.cache
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.AssemblyInfo.cs
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.csproj.CoreCompileInputs.cache
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\bin\Debug\net6.0\BookingCliement.exe
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\bin\Debug\net6.0\BookingCliement.deps.json
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\bin\Debug\net6.0\BookingCliement.runtimeconfig.json
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\bin\Debug\net6.0\BookingCliement.dll
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\bin\Debug\net6.0\BookingCliement.pdb
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.csproj.CopyComplete
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.dll
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\refint\BookingCliement.dll
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.pdb
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\BookingCliement.genruntimeconfig.cache
+C:\Users\samsung\source\repos\BookingCliement\BookingCliement\obj\Debug\net6.0\ref\BookingCliement.dll

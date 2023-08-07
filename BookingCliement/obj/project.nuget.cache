@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CStfbTqN3eJijrYvYBDxH3yOQ0+WKGgZVGPViPSChv83Bp//SLUIHOtGnDlb+hd8QUyodeKeGIsn765HC7Oaow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samsung\\source\\repos\\BookingCliement\\BookingCliement\\BookingCliement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samsung\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

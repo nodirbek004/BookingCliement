@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Sotboldi",
+    "Lastname": "Qaytaribberdiyev",
+    "PhoneNumber": "+998911234567"
+  },
+  {
+    "Id": 3,
+    "FirstName": "nodir",
+    "Lastname": "ollonazarov",
+    "PhoneNumber": "+998999999999"
+  },
+  {
+    "Id": 4,
+    "FirstName": "Nodirbek",
+    "Lastname": "Ollonazarov",
+    "PhoneNumber": "+998881813525"
+  },
+  {
+    "Id": 5,
+    "FirstName": "Abbos",
+    "Lastname": "Risqulov",
+    "PhoneNumber": "+998881812222"
+  }
+]
